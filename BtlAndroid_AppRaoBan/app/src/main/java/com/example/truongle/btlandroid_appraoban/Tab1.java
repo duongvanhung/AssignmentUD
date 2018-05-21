@@ -26,7 +26,7 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 
 /**
- * Created by truongle on 06/04/2017.
+ * Created by truongle on 09/05/2018.
  */
 
 public class Tab1 extends Fragment {

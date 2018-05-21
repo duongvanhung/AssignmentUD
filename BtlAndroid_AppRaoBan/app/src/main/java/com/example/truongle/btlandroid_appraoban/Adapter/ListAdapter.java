@@ -13,7 +13,7 @@ import com.example.truongle.btlandroid_appraoban.R;
 import java.util.ArrayList;
 
 /**
- * Created by truongle on 25/04/2017.
+ * Created by truongle on 25/04/2018.
  */
 
 public class ListAdapter extends BaseAdapter {

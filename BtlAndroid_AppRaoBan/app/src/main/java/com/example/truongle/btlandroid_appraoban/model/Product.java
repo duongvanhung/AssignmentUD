@@ -1,7 +1,7 @@
 package com.example.truongle.btlandroid_appraoban.model;
 
 /**
- * Created by truongle on 29/03/2017.
+ * Created by truongle on 29/04/2018.
  */
 
 public class Product {

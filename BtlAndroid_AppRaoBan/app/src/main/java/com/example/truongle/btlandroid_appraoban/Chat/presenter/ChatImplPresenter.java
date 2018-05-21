@@ -6,7 +6,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 /**
- * Created by truongle on 25/04/2017.
+ * Created by truongle on 25/04/2018.
  */
 
 public class ChatImplPresenter implements ChatLogicPresenter {

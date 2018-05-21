@@ -16,7 +16,7 @@ import com.example.truongle.btlandroid_appraoban.R;
 import java.util.ArrayList;
 
 /**
- * Created by truongle on 06/05/2017.
+ * Created by truongle on 06/05/2018.
  */
 
 public class UserContactAdapter extends BaseAdapter {

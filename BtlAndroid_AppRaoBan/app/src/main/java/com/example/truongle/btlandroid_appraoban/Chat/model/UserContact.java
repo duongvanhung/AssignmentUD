@@ -1,7 +1,7 @@
 package com.example.truongle.btlandroid_appraoban.Chat.model;
 
 /**
- * Created by truongle on 06/05/2017.
+ * Created by truongle on 06/05/2018.
  */
 
 public class UserContact {

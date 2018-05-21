@@ -1,7 +1,7 @@
 package com.example.truongle.btlandroid_appraoban.model;
 
 /**
- * Created by truongle on 11/05/2017.
+ * Created by truongle on 01/05/2018.
  */
 
 public class DSSP {

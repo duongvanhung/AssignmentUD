@@ -23,7 +23,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * Created by truongle on 07/05/2017.
+ * Created by truongle on 07/05/2018.
  */
 
 public class ChatFrame implements ChatView{
