@@ -1,4 +1,10 @@
 "Assignment - 07/03/2018" 
+
+Nhóm VB2:
+1427023 Nguyễn Tấn Lộc
+1527002 Hồ Tân Biên
+1527017 Dương Văn Hưng
+
 App bao gồm các chức năng:
 
 - Chức năng đăng ký.
